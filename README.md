@@ -1,6 +1,7 @@
 # DECENT: Data-Centric Edge and Node Tuning for GNN Calibration
 
-To protect our research, we have not disclosed the complete codebase. Currently, only a portion of the code that demonstrates our methodology is available. Once the paper is accepted and indexed, all the code will be available.
+To protect our research, we have not disclosed the complete codebase. Currently, only a portion of the code that
+demonstrates our methodology is available. Once the paper is accepted and indexed, all the code will be available.
 
 You can get the results in the paper by running main.py and modifying the parameters in the code
 
@@ -9,7 +10,6 @@ You can get the results in the paper by running main.py and modifying the parame
 DECENT: The Complete Model, Including Two Core Modules NTM and ETM
 
 # 1. Server Activation Environment, Change Directory
-
 
 # 2. Hyperparameter Analysis
 
